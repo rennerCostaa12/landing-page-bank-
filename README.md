@@ -1,5 +1,7 @@
-# landing-page-bank-
+# landing-page-Easybank
 Landing Page Fictícia
+
+<h1>Link do projeto: https://landing-page-bank-nine.vercel.app/</h1>
 
 # Tecnologias
 <div style='display: flex;'>
